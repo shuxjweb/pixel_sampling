@@ -129,7 +129,7 @@ if __name__ == '__main__':
     # misc
     working_dir = os.path.dirname(os.path.abspath(__file__))
     parser.add_argument('--dataset', type=str, default='prcc_gcn')
-    parser.add_argument('--data_dir', type=str, default='/data/shuxj/data/PReID/prcc/')
+    parser.add_argument('--data_dir', type=str, default='/data/prcc/')
     parser.add_argument('--logs_dir', type=str, default=os.path.join(working_dir, 'logs/prcc_pcb_pix/'))
 
     cfg = parser.parse_args()
