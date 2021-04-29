@@ -21,4 +21,4 @@ Put the trained models to corresponding directories:
  >parser.add_argument('--data_dir', type=str, default='/data/prcc/')
 
 then
-python train_prcc_base.py
+>python train_prcc_base.py
