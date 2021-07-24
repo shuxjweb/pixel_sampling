@@ -3,10 +3,9 @@
 In our paper, we propose a semantic-guided pixel sampling approach for the cloth-changing person re-ID task.  This repo contains the training and testing codes.
 
 ## Prepare Dataset
-```
 1. Download the PRCC dataset:  [PRCC](http://isee-ai.cn/~yangqize/clothing.html)
 2. Obtain the human body parts: [SCHP](https://github.com/PeikeLi/Self-Correction-Human-Parsing)
-```
+
 
 ## Trained Models
 The trained models can be downloaded in BaiduPan: [models](https://pan.baidu.com/s/1JOOJp_NPbsU19DdBr7ze9g) password: 6ulj
