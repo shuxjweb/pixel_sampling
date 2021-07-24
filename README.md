@@ -23,3 +23,16 @@ Put the trained models to corresponding directories:
 
 then
 >python train_prcc_base.py
+
+## Citations
+```bibtex
+@article{shu2021semantic,
+  title={Semantic-guided Pixel Sampling for Cloth-Changing Person Re-identification},
+  author={Shu, Xiujun and Li, Ge and Wang, Xiao and Ruan, Weijian and Tian, Qi},
+  journal={IEEE Signal Processing Letters},
+  volume={28},
+  pages={1365-1369},
+  year={2021}, 
+}
+```
+
