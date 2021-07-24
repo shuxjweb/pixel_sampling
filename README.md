@@ -17,12 +17,15 @@ Put the trained models to corresponding directories:
  
  ## Training and Testing Models
  Only need to modify several parameters:
+ ```
  >parser.add_argument('--train', type=str, default='train', help='train, test')
  
  >parser.add_argument('--data_dir', type=str, default='/data/prcc/')
-
+```
 then
+```
 >python train_prcc_base.py
+```
 
 ## Citations
 ```bibtex
