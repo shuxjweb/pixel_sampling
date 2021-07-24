@@ -7,7 +7,7 @@ In our paper, we propose a semanticguided pixel sampling approach for the cloth-
 2. Obtain the human body parts: [SCHP](https://github.com/PeikeLi/Self-Correction-Human-Parsing)
 
 ## Trained Models
-The trained models can be downloaded in BaiduPan: [models](https://pan.baidu.com/s/1Lx-6a95IYUYds0GUh4RpUQ) password: y5nc
+The trained models can be downloaded in BaiduPan: [models](https://pan.baidu.com/s/1JOOJp_NPbsU19DdBr7ze9g) password: 6ulj
 
 Put the trained models to corresponding directories:
 >pixel_sampling/imagenet/resnet50-19c8e357.pth
