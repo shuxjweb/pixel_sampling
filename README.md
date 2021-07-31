@@ -1,6 +1,6 @@
 # Semantic-guided Pixel Sampling for Cloth-Changing Person Re-identification
 
-In our paper [publish](https://ieeexplore.ieee.org/abstract/document/9463711/)[arxiv](https://arxiv.org/abs/2107.11522), we propose a semantic-guided pixel sampling approach for the cloth-changing person re-ID task.  This repo contains the training and testing codes.
+In our paper [publish](https://ieeexplore.ieee.org/abstract/document/9463711/), [arxiv](https://arxiv.org/abs/2107.11522), we propose a semantic-guided pixel sampling approach for the cloth-changing person re-ID task.  This repo contains the training and testing codes.
 
 ## Prepare Dataset
 1. Download the PRCC dataset:  [PRCC](http://isee-ai.cn/~yangqize/clothing.html)
