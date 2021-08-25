@@ -8,7 +8,7 @@ In our paper [publish](https://ieeexplore.ieee.org/abstract/document/9463711/), 
 
 
 ## Trained Models
-The trained models can be downloaded in BaiduPan: [models](https://pan.baidu.com/s/1JOOJp_NPbsU19DdBr7ze9g) password: 6ulj
+The trained models can be downloaded from: [BaiduPan](https://pan.baidu.com/s/1JOOJp_NPbsU19DdBr7ze9g) password: 6ulj, [Google](https://drive.google.com/drive/folders/1Ko8pg439hf6_Om6a3P-SeiKTWoEAnpv2?usp=sharing)
 ```
 Put the trained models to corresponding directories:
 >pixel_sampling/imagenet/resnet50-19c8e357.pth
