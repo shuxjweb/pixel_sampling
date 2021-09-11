@@ -5,6 +5,7 @@ In our paper [publish](https://ieeexplore.ieee.org/abstract/document/9463711/), 
 ## Prepare Dataset
 1. Download the PRCC dataset:  [PRCC](http://isee-ai.cn/~yangqize/clothing.html)
 2. Obtain the human body parts: [SCHP](https://github.com/PeikeLi/Self-Correction-Human-Parsing)
+3. The mask of PRCC dataset: [mask_6](https://pan.baidu.com/s/1sX1qFgo3I-4OfEdEr-opSg), password: r9kc
 
 
 ## Trained Models
