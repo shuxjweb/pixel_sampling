@@ -31,6 +31,7 @@ then
 ```
 
 ## Citations
+If you think this work is useful for you, please cite
 ```bibtex
 @article{shu2021semantic,
   title={Semantic-guided Pixel Sampling for Cloth-Changing Person Re-identification},
@@ -42,3 +43,4 @@ then
 }
 ```
 
+If you have any questions, please contact this e-mail: shuxj@mail.ioa.ac.cn
